@@ -3,7 +3,7 @@
 ### Hi there 👋
 🌱 I’m currently learning Node 
 
-my blog:smile:: https://www.wbbyouzi.com
+my blog:smile:: http://www.wbbyouzi.com
 
 <!--
 **wbbhacker/wbbhacker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
